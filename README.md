@@ -1,3 +1,3 @@
 # Kaggle-Solution
 
-Some solutions of the kaggle competitions I joined before.
+Some solutions of the Data competitions I joined before.
